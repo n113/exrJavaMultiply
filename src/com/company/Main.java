@@ -20,7 +20,6 @@ import java.util.Random;
 public class Main {
 
     public static void main(String[] args) {
-    ArrayList<Integer> numbers = new ArrayList<>();
     Random rand = new Random();
     ArrayList<String> checking = new ArrayList<>();
 
